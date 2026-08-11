@@ -86,6 +86,8 @@ export const StepOne = (props) => {
     }
   };
 
+   
+
   return (
     <div className="w-120 h-163.75 bg-amber-50 flex justify-between flex-col items-center py-8">
       <div className="w-96.25 h-104 flex justify-evenly flex-col">
